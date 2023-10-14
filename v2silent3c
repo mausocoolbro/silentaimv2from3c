@@ -44,12 +44,12 @@ getgenv().Aiming = {
 
     VisibleCheck = true,
     
-    HitChance = 110,
+    HitChance = 150,
 
     Selected = nil,
     SelectedPart = nil,
 
-    TargetPart = {"Head", "UpperTorso", "LowerTorso","LeftLeg","RightLeg"},
+    TargetPart = {"Head", "UpperTorso", "LowerTorso","LeftFoot","RightFoot"},
 
     Ignored = {
         Teams = {
